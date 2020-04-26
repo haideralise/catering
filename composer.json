@@ -1,0 +1,21 @@
+{
+    "name": "haider/event-catering",
+    "authors": [
+        {
+            "name": "haideralise",
+            "email": "se.haiderali@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^7.8"
+    },
+    "autoload": {
+
+        "classmap": [
+
+            "classes"
+
+        ]
+
+    }
+}
